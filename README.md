@@ -6,7 +6,7 @@ Technical Problem Solver
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [satvik213161@gmail.com](mailto:satvik213161@gmail.com)
-* 🚀  I'm currently working on [Know Your Way (Flutter App)](https://github.com/satvik2131/react-fiber-cannon-game)
+* 🚀  I'm currently working on [React Three Fiber Portfolio (Flutter App)](https://github.com/satvik2131/react-fiber-cannon-game)
 * 🧠  I'm learning Three.js
 * 🤝  I'm openly to collaborating on NextCloud
 * ⚡  Working at Foutane as an SDE Intern
