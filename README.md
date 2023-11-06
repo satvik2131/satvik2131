@@ -6,10 +6,10 @@ Technical Problem Solver
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [satvik213161@gmail.com](mailto:satvik213161@gmail.com)
-* 🚀  I'm currently working on [Know Your Way (Flutter App)](http://github.com/satvik2131/knowyourway-ev-distance-app)
-* 🧠  I'm learning Cyber Security
-* 🤝  I'm open to collaborating on Kubescape || AOSP
-* ⚡  I love chai more than coffee
+* 🚀  I'm currently working on [Know Your Way (Flutter App)](https://github.com/satvik2131/react-fiber-cannon-game)
+* 🧠  I'm learning Three.js
+* 🤝  I'm openly to collaborating on NextCloud
+* ⚡  Working at Foutane as an SDE Intern
 
 <a href="https://www.twitter.com/SatvikKushwaha1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/SatvikKushwaha1?logo=twitter&style=for-the-badge&color=444e59&labelColor=000000"
