@@ -9,7 +9,6 @@ Technical Problem Solver
 * 🚀  I'm currently working on [React Three Fiber Portfolio ](https://github.com/satvik2131/react-fiber-cannon-game)
 * 🧠  I'm learning Three.js
 * 🤝  I'm openly to collaborating on NextCloud
-* ⚡  Working at Foutane as an SDE Intern
 
 <a href="https://www.twitter.com/SatvikKushwaha1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/SatvikKushwaha1?logo=twitter&style=for-the-badge&color=444e59&labelColor=000000"
