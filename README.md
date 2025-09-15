@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Satvik Kushwaha  
 
-💡 *“I pick the right tools to craft solutions — some people call it development, I call it creation.”*  
+💡 *“I pick the right tools to craft solutions — some call it development, I call it creation.”*  
 
 ---
 
@@ -42,6 +42,13 @@
 ## 🎯 Portfolio  
 - 🕹 **3D Gaming Portfolio** → [Can Knockdown Game](https://satvik2131.netlify.app/)  
 
+---
+
+## 📫 Contact Me  
+
+- 📧 **Email:** [satvik213161@gmail.com](mailto:satvikkush2131@gmail.com)  
+- 🐦 **Twitter:** [satvik](https://twitter.com/SatvikKushwaha1)  
+- 💼 **LinkedIn:** [Satvik Kushwaha](https://www.linkedin.com/in/satvik-kushwaha-7b7b1811b)  
 ---
 
 ✨ *Always curious, always building — let’s create something extraordinary together.*  
