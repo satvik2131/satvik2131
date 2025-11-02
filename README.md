@@ -5,8 +5,8 @@
 ---
 
 ## 🔥 About Me  
-- 🛠 Currently building **[RepoWipe](https://github.com/satvik2131/repowipe)** → A GitHub multi-repo remover tool.  
-- 🎮 Created a **3D Gaming Portfolio (Can Knockdown Game)** using **React Three Fiber & Three.js** → [Play Here](https://satvik2131.netlify.app/)  
+- 🛠 Currently building **[RepoWipe](https://repowipe.site)** → A GitHub multi-repo remover tool.  
+- 🎮 Created a **3D Gaming Portfolio (Can Knockdown Game)** using **React Three Fiber & Three.js** → [Play Here](https://satvikkush.space/)  
 - 🐞 A bug hunter, a feature creator, and someone who enjoys solving problems with code.  
 
 ---
