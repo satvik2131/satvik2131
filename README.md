@@ -1,226 +1,80 @@
-```ascii
-███████╗ █████╗ ████████╗██╗   ██╗██╗██╗  ██╗
-██╔════╝██╔══██╗╚══██╔══╝██║   ██║██║██║ ██╔╝
-███████╗███████║   ██║   ██║   ██║██║█████╔╝ 
-╚════██║██╔══██║   ██║   ╚██╗ ██╔╝██║██╔═██╗ 
-███████║██║  ██║   ██║    ╚████╔╝ ██║██║  ██╗
-╚══════╝╚═╝  ╚═╝   ╚═╝     ╚═══╝  ╚═╝╚═╝  ╚═╝
-```
+# Hi there 👋 I'm Satvik Kushwaha
 
 <div align="center">
 
-### `$ whoami`
-**Full-Stack Developer | Creates Problems :also-) Solves them**
+**Full-Stack Developer** | Building scalable solutions with React, Go, Java & TypeScript
 
-[![Portfolio](https://img.shields.io/badge/🎮_Portfolio-Can_Knockdown_Game-00D9FF?style=for-the-badge)](https://satvikkush.space/)
-[![RepoWipe](https://img.shields.io/badge/🛠_Project-RepoWipe-FF6B6B?style=for-the-badge)](https://repowipe.site)
-[![Email](https://img.shields.io/badge/📧_Email-satvik213161%40gmail.com-EA4335?style=for-the-badge)](mailto:satvik213161@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Satvik%20Kushwaha-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/satvik-kushwaha-7b7b1811b)
+[![Twitter](https://img.shields.io/badge/Twitter-%40SatvikKushwaha1-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/SatvikKushwaha1)
+[![Email](https://img.shields.io/badge/Email-satvik213161%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:satvik213161@gmail.com)
 
 </div>
 
 ---
 
-## `$ cat about.txt`
+## 🚀 Featured Projects
 
-```bash
-> Initializing developer profile...
-> Loading skills... ████████████████████ 100%
-> Compiling experience... Done ✓
+| 🔗 Project | 📝 Description | 🔧 Tech |
+|-----------|---------------|---------|
+| **[RepoWipe](https://github.com/satvik2131/repowipe)** <br/> [🌐 Live](https://repowipe.site) | Mass delete GitHub repos with ease | TypeScript, React |
+| **[3D Gaming Portfolio](https://github.com/satvik2131/react-fiber-cannon-game)** <br/> [🎮 Live](https://satvikkush.space) | Interactive Can Knockdown Game | React Three Fiber |
 
-💡 "I pick the right tools to craft solutions — 
-    some call it development, I call it creation."
+---
 
-🛠️  Currently building: RepoWipe (GitHub multi-repo remover)
-🎮 Latest project: 3D Gaming Portfolio using React Three Fiber
-🐞 Philosophy: Hunt bugs, create features, solve problems
+## 💻 Tech Stack
+
+```
+Languages      → Go • Java • TypeScript • JavaScript
+Frontend       → React • Vue • Three.js • Tailwind CSS
+Backend        → Go (Gin) • Express.js
+Database       → MongoDB • MySQL • Firebase
+Mobile         → Android Native
+Tools          → VSCode • Git • Postman • Claude
 ```
 
 ---
 
-## `$ ls -la ~/projects`
+## 🌟 Open Source Contributions
 
-```bash
-drwxr-xr-x  5 satvik  staff   160 Nov  3 2025 .
--rw-r--r--  1 satvik  staff  2048 Nov  3 2025 repowipe/
--rw-r--r--  1 satvik  staff  4096 Nov  3 2025 3d-gaming-portfolio/
--rw-r--r--  1 satvik  staff  1024 Nov  3 2025 open-source-contributions/
-```
+### Contributing to **Kestra** - Workflow Orchestration Platform
 
-### 🚀 Featured Projects
+| PR | Title | Status |
+|:--:|--------|:------:|
+| [#8388](https://github.com/kestra-io/kestra/pull/8388) | Fixed hover color on see all button | ✅ Merged |
+| [#8367](https://github.com/kestra-io/kestra/pull/8367) | Text Color was not according to theme in Firefox | ✅ Merged |
+| [#8348](https://github.com/kestra-io/kestra/pull/8348) | Fixed visibility issue for download and preview in outputs | ✅ Merged |
+| [#8178](https://github.com/kestra-io/kestra/pull/8178) | Fix(UI) filter all values getting removed | ✅ Merged |
+| [#8168](https://github.com/kestra-io/kestra/pull/8168) | Not able to edit filter in Executions page | ✅ Merged |
+| [#7938](https://github.com/kestra-io/kestra/pull/7938) | Added custom height to editor input | ✅ Merged |
+| [#7913](https://github.com/kestra-io/kestra/pull/7913) | Fix(UI) Backfill trigger auto fill | ✅ Merged |
+| [#6553](https://github.com/kestra-io/kestra/pull/6553) | Fix(UI) dashboard filter remove default | ✅ Merged |
+| [#6464](https://github.com/kestra-io/kestra/pull/6464) | Fix(UI) settings tooltip | ✅ Merged |
+| [#5933](https://github.com/kestra-io/kestra/pull/5933) | Feat(UI) markdown dialog for warning | ✅ Merged |
 
-<table>
-<tr>
-<td width="50%">
-
-#### 🗑️ [RepoWipe](https://repowipe.site)
-```typescript
-// Mass delete GitHub repos with ease
-const repoWipe = {
-  purpose: "Multi-repo remover",
-  status: "🟢 Active",
-  stack: ["TypeScript", "React"]
-}
-```
-
-</td>
-<td width="50%">
-
-#### 🎮 [3D Gaming Portfolio](https://satvikkush.space/)
-```javascript
-// Can Knockdown Game
-const game = {
-  tech: "React Three Fiber",
-  type: "Interactive 3D",
-  status: "🎯 Playable"
-}
-```
-
-</td>
-</tr>
-</table>
+[📋 View all commits](https://github.com/kestra-io/kestra/commits?author=satvik2131)
 
 ---
 
-## `$ cat /etc/skills.conf`
+## 📊 GitHub Stats
 
-```bash
-[languages]
-primary = ["Go ⚡", "Java ☕", "TypeScript 🌀", "JavaScript ✨"]
+![](https://github-readme-stats.vercel.app/api?username=satvik2131&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)
 
-[frontend]
-frameworks = ["React ⚛️", "Vue 🟩", "Three.js 🎮"]
-specialty = "3D Web Experiences"
+![](https://nirzak-streak-stats.vercel.app/?user=satvik2131&theme=transparent&hide_border=false)
 
-[mobile]
-platform = "Android Native 📱"
-
-[backend_&_database]
-tools = ["MongoDB 🍃", "Redis 🟥", "Firebase 🔥"]
-
-[current_learning]
-focus = ["Go (Backend Systems)", "Java (Scalable Architecture)"]
-progress = "████████░░ 80%"
-```
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=satvik2131&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
-## `$ git log --author="satvik2131" --graph`
+## 🔥 Activity Graph
 
-<div align="center">
-
-### 📊 GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=satvik2131&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=satvik2131&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="48%" />
-
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=satvik2131&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B" width="100%"/>
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=satvik2131&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%"/>
-
-### 📊 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satvik2131&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" width="48%"/>
-
-</div>
-
----
-
-## `$ grep -r "open-source" ~/contributions`
-
-```diff
-+ Contributed to Kestra (Workflow Orchestration Platform)
-+ View commits: github.com/kestra-io/kestra/commits?author=satvik2131
-! Status: Active contributor
-```
-
-<div align="center">
-
-### 🌟 Open Source Contributions
-
-[![Kestra Contributions](https://img.shields.io/badge/Kestra-Contributor-00D9FF?style=for-the-badge&logo=github)](https://github.com/kestra-io/kestra/commits?author=satvik2131)
-
-</div>
-
----
-
-## `$ curl -s https://api.satvik.dev/tech-stack`
-
-<div align="center">
-
-```json
-{
-  "frontend": {
-    "frameworks": ["React", "Vue", "Three.js"],
-    "styling": "Tailwind CSS",
-    "specialty": "3D Web Graphics"
-  },
-  "backend": {
-    "languages": ["Go", "Java"],
-    "databases": ["MongoDB", "Redis"],
-    "cloud": "Firebase"
-  },
-  "mobile": {
-    "platform": "Android Native"
-  },
-  "tools": {
-    "version_control": "Git",
-    "deployment": "Vercel, Netlify",
-    "api_testing": "Postman"
-  }
-}
-```
-
-</div>
-
----
-
-## `$ netstat -an | grep LISTENING`
-
-<div align="center">
-
-### 📡 Connect With Me
-
-```bash
-┌─[satvik@github]─[~]
-└──╼ $ echo "Let's build something extraordinary"
-```
-
-[![Twitter](https://img.shields.io/badge/Twitter-@SatvikKushwaha1-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SatvikKushwaha1)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Satvik_Kushwaha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satvik-kushwaha-7b7b1811b)
-[![Email](https://img.shields.io/badge/Email-satvik213161@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satvik213161@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-satvikkush.space-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://satvikkush.space/)
-
-</div>
+![](https://github-readme-activity-graph.vercel.app/graph?username=satvik2131&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B)
 
 ---
 
 <div align="center">
-
-```bash
-> Session active since: 2020
-> Commits pushed: Counting...
-> Coffee consumed: ∞
-> Bugs fixed: Too many to count
-> Status: ⚡ Always learning, always building
-
-[satvik@github ~]$ █
-```
 
 ### 💭 *"Code is poetry written in logic"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=satvik2131&color=00D9FF&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/satvik2131?style=for-the-badge&color=00D9FF)](https://github.com/satvik2131)
-
-</div>
-
----
-
-<div align="center">
-  
-**[⬆ Back to Top](#)**
+[![](https://visitcount.itsvg.in/api?id=satvik2131&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
